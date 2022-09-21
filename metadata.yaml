@@ -1,0 +1,43 @@
+_repo: Aspects-of-Nature-Vol-2-of-2-In-different-lands-and-different-climates-with-scientific-elucid__68953
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Sabine, Elizabeth Juliana
+    birthdate: 1807
+    deathdate: 1879
+    gutenberg_agent_id: '54147'
+    url: http://www.gutenberg.org/2009/agents/54147
+    wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Juliana_Leeves_Sabine
+creator:
+  author:
+    agent_name: Humboldt, Alexander von
+    aliases:
+    - Humboldt, Friedrich Wilhelm Heinrich Alexander von
+    - Von Humboldt, Alexander
+    birthdate: 1769
+    deathdate: 1859
+    gutenberg_agent_id: '1995'
+    url: http://www.gutenberg.org/2009/agents/1995
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alexander_von_Humboldt
+    - https://de.wikipedia.org/wiki/Alexander_von_Humboldt
+description: ''
+gutenberg_issued: '2022-09-10'
+identifiers:
+  gutenberg: '68953'
+language: en
+pgterms:marc904: https://archive.org/details/b29329668_0001
+pgterms:marc905: 20190811124324humboldt
+pgterms:marc906: '1849'
+pgterms:marc907: GB
+production_note: Henry Flower and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Longman, Brown, Green, and Longmans,1849.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Aspects of Nature (Vol. 2 of 2): In different lands and different climates;
+  with scientific elucidations'
+url: http://www.gutenberg.org/ebooks/68953
