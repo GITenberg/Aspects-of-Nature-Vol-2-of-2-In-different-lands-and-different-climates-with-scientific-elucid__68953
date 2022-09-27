@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '54147'
     url: http://www.gutenberg.org/2009/agents/54147
     wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Juliana_Leeves_Sabine
+covers:
+- cover_type: archival
+  image_path: 68953-h/images/cover.jpg
 creator:
   author:
     agent_name: Humboldt, Alexander von
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alexander_von_Humboldt
     - https://de.wikipedia.org/wiki/Alexander_von_Humboldt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68953#Aspects-of-Nature-Vol-2-of-2-In-different-lands-and-different-climates-with-scientific-elucid_
 gutenberg_issued: '2022-09-10'
 identifiers:
   gutenberg: '68953'
